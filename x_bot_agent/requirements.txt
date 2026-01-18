@@ -1,0 +1,14 @@
+# X Bot Agent Dependencies
+# Install with: pip install -r requirements.txt
+
+# X API
+tweepy>=4.14.0
+
+# Google Gemini AI
+google-generativeai>=0.5.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Already included in Python stdlib: sqlite3, logging, hashlib, argparse
+
